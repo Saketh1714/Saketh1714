@@ -5,7 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saketh1714&label=Profile%20views&color=0e75b6&style=flat" alt="saketh1714" /> </p>
 
-- 🌱 I’m currently learning **ReactJs,PHP**
+- 🔭 I’m currently working on **my problem solving skills**
+
+- 🌱 I’m currently learning **ReactJs,PHP,Deep Learning**
+- 
+- 👯 I’m looking to collaborate on **Projects**
 
 - 💬 Ask me about **Java**
 
