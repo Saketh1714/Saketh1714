@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **my problem solving skills**
 
 - 🌱 I’m currently learning **ReactJs,PHP,Deep Learning**
-- 
+  
 - 👯 I’m looking to collaborate on **Projects**
 
 - 💬 Ask me about **Java**
