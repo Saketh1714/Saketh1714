@@ -1,7 +1,7 @@
 [![MasterHead](file:///C:/Users/madar/Downloads/DALL%C2%B7E%202024-12-31%2010.20.52%20-%20An%20image%20with%20the%20text%20'I%20am%20a%20Full-Stack%20Web%20Developer'%20prominently%20displayed%20in%20bold,%20professional%20font%20at%20the%20center.%20The%20background%20includes%20a%20blu.webp)
 <h1 align="center">Hi 👋, I'm Saketh M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/wLNuW1tCKRiPmDV5Y4">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saketh1714&label=Profile%20views&color=0e75b6&style=flat" alt="saketh1714" /> </p>
 
